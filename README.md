@@ -79,12 +79,14 @@ Após subir os containers, você poderá acessar:
 * Java 21
 * Spring Boot
 * React
+* ReacQuery
 * PostgreSQL
 * Docker
 
 ---
 
-## 📌 Autor
+## 🛠️ Arquitetura do backEnd
+O diagrama a seguir explica a organização de arquitetura modular através de um módulo 'Example'. Esse diagrama descreve classes e nomeclaturas que utilizei em meu projeto, dando enfoque as suas responsabilidades:
+<img width="1249" height="618" alt="image" src="https://github.com/user-attachments/assets/0dec7563-49d2-48d6-94db-b3735cdc5101" />
 
-Projeto desenvolvido por Lucas Ferreira.
 
